@@ -1,6 +1,6 @@
 ###
 Olá meus caros leitores! 👋
-👦 Pedro Lucas:
+👦 Pedro Lucas: <br>
 irei contar um pouco de minha carreira profissional para que vocês me conheçam, assim compreenderão melhor minhas habilidades e vida profissional.
 Primeiramente sou estudante faço um curso técnico profissionalizante (Curso Técnico em Informática) onde faz parte da Tecnologia da Informação (T.I)
 👨‍💻 Tenho algumas aptidões com:
