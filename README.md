@@ -1,16 +1,20 @@
-### Hi there 👋
-
+###
+Olá meus caros leitores! 👋
 <!--
-**PedroLucasDeveloper/PedroLucasDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👦 Pedro Lucas:
+irei contar um pouco de minha carreira profissional para que vocês me conheçam, assim compreenderão melhor minhas habilidades e vida profissional.
+Primeiramente sou estudante faço um curso técnico profissionalizante (Curso Técnico em Informática) onde faz parte da Tecnologia da Informação (T.I)
+👨‍💻 Tenho algumas aptidões com:
+Desenvolvimento Web (HTML, CSS, Javascript). 🌐
+Arquitetura e Manutenção de Computadores. 💻
+Sistemas Operacionais. 💻
+Fundamentos da T.I: Hardware e Software. 💻
+Fundamentos da Lógica de Programação. 📖
+Informática Básica (Word, Excel e Power Point). 🏢
+Inglês Técnico. 💬
+Empreendedorismo. 💸
+Mundo do Trabalho. 💼
+Gestão de tempo. ⌚
+Projeto de vida. 🚀
+Postura e Imagem Profissional. 👦
 -->
