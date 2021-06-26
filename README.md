@@ -7,7 +7,7 @@ Desenvolvimento Web (HTML, CSS, Javascript).🌐<br>
 Arquitetura e Manutenção de Computadores. 💻<br>
 Sistemas Operacionais. 💻<br>
 Fundamentos da T.I: Hardware e Software. 💻<br>
-Fundamentos da Lógica de Programação. 📖
+Fundamentos da Lógica de Programação. 📖<br>
 Informática Básica (Word, Excel e Power Point). 🏢<br>
 Inglês Técnico. 💬<br>
 Empreendedorismo. 💸<br>
