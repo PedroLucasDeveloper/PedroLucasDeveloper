@@ -6,13 +6,16 @@ Primeiramente sou estudante faço um curso técnico profissionalizante (Curso T�
 
 👨‍💻 Tenho algumas aptidões com:
 
-* Desenvolvimento Web (HTML, CSS, Javascript)
+* Desenvolvimento Web (HTML, CSS, Javascript, PHP)
 * Arquitetura e Manutenção de Computadores. 💻
-* Sistemas Operacionais. 💻<br>
+* Banco de dados.🏦🎲
+* Inglês Técnico📚
+* Redes de Computadores💻
+* Design 🎨
+* Sistemas Operacionais. 💻
 * Fundamentos da T.I: Hardware e Software. 💻
 * Fundamentos da Lógica de Programação. 📖
 * Informática Básica (Word, Excel e Power Point). 🏢
-* Inglês Técnico. 💬
 * Empreendedorismo. 💸
 * Mundo do Trabalho. 💼
 * Gestão de tempo. ⌚
