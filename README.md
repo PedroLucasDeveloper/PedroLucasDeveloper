@@ -18,8 +18,8 @@ Sou um desenvolvedor com experiência em várias linguagens de programação e f
 
 ## Experiência Profissional
 
-- **Estagiário em Desenvolvimento de Sistemas**, Open 7 (Abr 2024 - Presente)
-  - Atuo como desenvolvedor full-stack, melhorando projetos existentes e criando novas interfaces e funcionalidades.
+- **Estagiário em Desenvolvimento de Sistemas**, Open 7 (Abr 2024 - Abr 2025)
+  - Atuo como desenvolvedor front-end, melhorando projetos existentes e criando novas interfaces e funcionalidades.
 
 - **Estagiário de T.I.**, CREDE 08 (Ago 2022 - Dez 2022)
   - Criação de páginas web e assistência na manutenção de computadores e sistemas.
